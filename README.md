@@ -1,5 +1,8 @@
 # scraper-demo
 
+## What is this script?
+This script will scrape the NFL 2023 schedule from pro-football-reference.com, and then output that data as a CSV. The point of this example is to show a simple python scraper implementation using a reusable BaseScraper class that leverages BeatifulSoup. You can create your own scraper that inherits from BaseScraper in the same way that is show here.
+
 ## How to run:
 
 ### 1. Clone repository
